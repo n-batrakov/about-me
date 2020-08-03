@@ -35,7 +35,7 @@
 
 * ОС: Linux, Windows
 * Языки: C#, JavaScript (TypeScript), Python
-* Хранение данных: MS SQL, PostgreSQL, Redis, MongoDb, InfluxDB, ElasticSearch
+* Данные: MS SQL, PostgreSQL, Redis, MongoDb, RabbitMQ, InfluxDB, ElasticSearch
 * Контейнеры: Docker
 * Библиотеки и фреймворки: ASP.NET Core, React, Redux, RxJS, VueJS
 
